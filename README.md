@@ -37,7 +37,10 @@
 What inspired you to create this project? Describe the problem you're solving.
 
 ## ⚙️ What It Does
-Explain the key features and functionalities of your project.
+* It categorize the tickets based on ticket description and automatically assign the tickets to respebtive agents.
+* In the platform support chatbot, support person asked any question and able to get the answer from F&Q documents or thoubleshooting guide what we have provided
+* In the platform support chatbot, support person can check what was the resolution for similar type of tickets from older support tickets csv file
+* In the platform support chatbot, support person can run basic troubledshooting steps automatically. As for example, if the issue is identified as network issue, support person can check all google services are working or not, he can run ping command, netstat command etc from chatbot itself. He just need to click on the stroubleshooting buttons. Automation suite will do everything by its own.
 
 ## 🛠️ How We Built It
 The techstack what we used in this project are:
