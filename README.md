@@ -43,13 +43,13 @@ What inspired you to create this project? Describe the problem you're solving.
 * In the platform support chatbot, support person can run basic troubledshooting steps automatically. As for example, if the issue is identified as network issue, support person can check all google services are working or not, he can run ping command, netstat command etc from chatbot itself. He just need to click on the stroubleshooting buttons. Automation suite will do everything by its own.
 
 ## 🛠️ How We Built It
-The techstack what we used in this project are:
-TextLoader, UnstructuredFileLoader and CSVLoader to load our internal throubleshooting/F&Q documents
-OpenAI embedding - for text similarity, classification, recommendation
-langchain
-vectordb - FAISS, to load the document with embedding for personalised recommendation of tickets
-LLM with model GPT-4 (as mentioned in problem statement)
-RAG based qa chain - For retriving a user query from vector db. To retrive relevant documents or text chunks, which serve as context for the LLM.
+* The techstack what we used in this project are:
+* TextLoader, UnstructuredFileLoader and CSVLoader to load our internal throubleshooting/F&Q documents
+* OpenAI embedding - for text similarity, classification, recommendation
+* langchain
+* vectordb - FAISS, to load the document with embedding for personalised recommendation of tickets
+* LLM with model GPT-4 (as mentioned in problem statement)
+* RAG based qa chain - For retriving a user query from vector db. To retrive relevant documents or text chunks, which serve as context for the LLM.
 
 ## 🚧 Challenges We Faced
 Describe the major technical or non-technical challenges your team encountered.
@@ -77,7 +77,13 @@ Describe the major technical or non-technical challenges your team encountered.
 - 🔹 Frontend: Streamlit
 - 🔹 Backend: python
 - 🔹 Database: vectordb for RAG based solution
-- 🔹 Other: OpenAI API 
+- 🔹 Other: OpenAI API
+      * TextLoader, UnstructuredFileLoader and CSVLoader to load our internal throubleshooting/F&Q documents
+      * OpenAI embedding - for text similarity, classification, recommendation
+      * langchain
+      * vectordb - FAISS, to load the document with embedding for personalised recommendation of tickets
+      * LLM with model GPT-4 (as mentioned in problem statement)
+      * RAG based qa chain - For retriving a user query from vector db. To retrive relevant documents or text chunks, which serve as context for the LLM.
 
 ## 👥 Team
 - **Prajna Chakraborty** - [GitHub](#) | [LinkedIn](#)
