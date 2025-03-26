@@ -78,12 +78,14 @@ Describe the major technical or non-technical challenges your team encountered.
 - 🔹 Backend: python
 - 🔹 Database: vectordb for RAG based solution
 - 🔹 Other: OpenAI API
-      * TextLoader, UnstructuredFileLoader and CSVLoader to load our internal throubleshooting/F&Q documents
-      * OpenAI embedding - for text similarity, classification, recommendation
-      * langchain
-      * vectordb - FAISS, to load the document with embedding for personalised recommendation of tickets
-      * LLM with model GPT-4 (as mentioned in problem statement)
-      * RAG based qa chain - For retriving a user query from vector db. To retrive relevant documents or text chunks, which serve as context for the LLM.
+
+The Open API related techstack what we used in this project are:
+* TextLoader, UnstructuredFileLoader and CSVLoader to load our internal throubleshooting/F&Q documents
+* OpenAI embedding - for text similarity, classification, recommendation
+* langchain
+* vectordb - FAISS, to load the document with embedding for personalised recommendation of tickets
+* LLM with model GPT-4 (as mentioned in problem statement)
+* RAG based qa chain - For retriving a user query from vector db. To retrive relevant documents or text chunks, which serve as context for the LLM.
 
 ## 👥 Team
 - **Prajna Chakraborty** - [GitHub](#) | [LinkedIn](#)
