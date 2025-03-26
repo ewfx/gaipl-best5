@@ -77,5 +77,8 @@ Describe the major technical or non-technical challenges your team encountered.
 - 🔹 Other: OpenAI API 
 
 ## 👥 Team
-- **Your Name** - [GitHub](#) | [LinkedIn](#)
-- **Teammate 2** - [GitHub](#) | [LinkedIn](#)
+- **Prajna Chakraborty** - [GitHub](#) | [LinkedIn](#)
+- **Mutturaj Mundewadi** - [GitHub](#) | [LinkedIn](#)
+- **Karthee Govindarajan** - [GitHub](#) | [LinkedIn](#)
+- **Sriparthu Ghali** - [GitHub](#) | [LinkedIn](#)
+- **Prasanna Nayak** - [GitHub](#) | [LinkedIn](#)
