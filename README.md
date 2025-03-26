@@ -52,7 +52,10 @@ What inspired you to create this project? Describe the problem you're solving.
 * RAG based qa chain - For retriving a user query from vector db. To retrive relevant documents or text chunks, which serve as context for the LLM.
 
 ## 🚧 Challenges We Faced
-Describe the major technical or non-technical challenges your team encountered.
+The mejor technical challenges we faced are listed below
+* Security Issue: To ensure that our organization's data is not posted to OpenAI while developing a custom AI chatbot, we have to deploy an open-source LLM (like GPT-J, GPT-NeoX, etc.) locally. This way, all our data 
+  stays within our infrastructure and isn’t sent to OpenAI servers. This we can not done in our local system because of resource issue.
+* OPEN API key is not freely available
 
 ## 🏃 How to Run
 1. Clone the repository  
